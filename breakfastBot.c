@@ -1,5 +1,5 @@
 /*
-GROUP 48
+
 Srijay Mundlur, Shangheethan Prabaharan, Nikunj Patel, Om Patel
 
 ~~ Breakfast Bot ~~
